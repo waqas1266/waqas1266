@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Node, React**
 
-- 📫 How to reach me **muhammad.waqas@rhinos-me.com**
+- 📫 How to reach me **contact@waqass.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
